@@ -86,7 +86,7 @@ body {
 .container #clock .clock-face .second-hand {
   width: 50%;
   height: 0.2rem;
-  background-color: green;
+  background-color: rgb(38, 139, 197);
   position: absolute;
   top: 50%;
   transform-origin: 100%;
